@@ -1,1 +1,2 @@
-# Defect-Detection-in-PCB-using-Image-Processing
+# Defect-Detection-in-PCB
+Modern Printed Circuit board (PCB) has distinctive electronic parts mounted with various pathways or tracks. The idea of visual printed circuit board (PCB) assessment is a methodology used to detect the counter difﬁculties that can emerge during people's manual review. A PCB standard picture and a defected PCB picture are taken as input and utilizing a basic subtraction calculation or logical X-OR that can feature the principle issue areas. At last, deformity classiﬁcation activity is utilized to detect four kinds of imperfections to be specific, they are pinhole, spur, short circuit, and open circuit.
